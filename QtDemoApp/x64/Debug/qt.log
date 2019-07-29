@@ -1,0 +1,3 @@
+QtDemoApp.h|"C:\Users\Anamaria\Desktop\QtDemoApp\QtDemoApp.h" -o ".\GeneratedFiles\Debug\moc_QtDemoApp.cpp" "-I.\GeneratedFiles" "-I." "-ID:\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-ID:\msvc2017_64\include\QtCore" "-ID:\msvc2017_64\include\QtGui" "-ID:\msvc2017_64\include\QtANGLE" "-ID:\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+QtDemoApp.qrc|"C:\Users\Anamaria\Desktop\QtDemoApp\QtDemoApp.qrc" -o ".\GeneratedFiles\qrc_QtDemoApp.cpp" --name QtDemoApp
+QtDemoApp.ui|"C:\Users\Anamaria\Desktop\QtDemoApp\QtDemoApp.ui" -o ".\GeneratedFiles\ui_QtDemoApp.h"
